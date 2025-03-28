@@ -6,7 +6,7 @@ from urllib.parse import urljoin, urlparse
 import cohere
 
 
-api_key = "CgjMdQ9QjPsJjySjnTn1GjbFi8twulZHgbGKr8Ff"
+api_key = <API_KEY>
 co = cohere.Client(api_key)
 
 
